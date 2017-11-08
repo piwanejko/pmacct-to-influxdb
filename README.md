@@ -8,4 +8,4 @@ Script is watching pmacct output file using inotify and searches for IN_CLOSE_WR
 Everyday script refreshes _TOP_TALKERS_MEASUREMENT, that is used by Grafana for templating by ASN field.
 
 Example Grafana dashboard view:
-![alt text](https://raw.githubusercontent.com/piwanejko/pmacct-to-influxdb/blob/master/example_dashboard.png)
+![alt text](https://raw.githubusercontent.com/piwanejko/pmacct-to-influxdb/master/example_dashboard.png)
