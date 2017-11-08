@@ -1,7 +1,4 @@
-Python 3 script for storing pmacct flow data in InfluxDB.
-Assumed use case is to display graphs in Grafana for ASN's with highest traffic.
-
-* Requirements
+Requirements
 
  - pmacct daemon to be run in 'print' JSON mode and aggregating just by 'dst_as' 
  - InfluxDB API access and created database
